@@ -1,0 +1,8 @@
+C:\Users\mlsantos13\source\repos\atividadeFinal\atividadeFinal\bin\Debug\atividadeFinal.exe.config
+C:\Users\mlsantos13\source\repos\atividadeFinal\atividadeFinal\bin\Debug\atividadeFinal.exe
+C:\Users\mlsantos13\source\repos\atividadeFinal\atividadeFinal\bin\Debug\atividadeFinal.pdb
+C:\Users\mlsantos13\source\repos\atividadeFinal\atividadeFinal\obj\Debug\atividadeFinal.csproj.AssemblyReference.cache
+C:\Users\mlsantos13\source\repos\atividadeFinal\atividadeFinal\obj\Debug\atividadeFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\mlsantos13\source\repos\atividadeFinal\atividadeFinal\obj\Debug\atividadeFinal.csproj.CoreCompileInputs.cache
+C:\Users\mlsantos13\source\repos\atividadeFinal\atividadeFinal\obj\Debug\atividadeFinal.exe
+C:\Users\mlsantos13\source\repos\atividadeFinal\atividadeFinal\obj\Debug\atividadeFinal.pdb
